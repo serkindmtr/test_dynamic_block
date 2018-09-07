@@ -1,0 +1,19 @@
+{
+  "content": {
+    "messages": [
+      {
+        "elements": [
+          {
+            "action_url": "https://google.com",
+            "buttons": [],
+            "image_url": "https://manybot-thumbnails.s3.eu-central-1.amazonaws.com/fb248753132402290/ca/big_aa36131280a559a6cf36f11a73b044ff.jpg",
+            "subtitle": "card text",
+            "title": "Card title"
+          }
+        ],
+        "type": "cards"
+      }
+    ]
+  },
+  "version": "v2"
+}
